@@ -1,7 +1,7 @@
 {
   "name": "EvolutionWellness",
   "version": "1.0.0",
-  "description": "NashTech template",
+  "description": "NashTech template.",
   "main": "index.js",
   "scripts": {
     "test": "test",
